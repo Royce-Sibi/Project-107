@@ -1,0 +1,1 @@
+https://teachablemachine.withgoogle.com/models/Xg68G_9RW/
